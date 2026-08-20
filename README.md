@@ -23,11 +23,18 @@ The objective is to demonstrate a repeatable analytical workflow:
 
 | Section | Focus |
 |---|---|
+| [`case-studies`](case-studies/) | Completed evidence-based blockchain and digital-asset investigations |
 | [`transaction-research`](transaction-research/) | Transaction-level blockchain analysis and evidence documentation |
 | [`wallet-analysis`](wallet-analysis/) | Wallet behavior, address relationships, and attribution methodology |
 | [`compliance`](compliance/) | AML/KYC concepts, risk indicators, and digital-asset compliance research |
 | [`market-analysis`](market-analysis/) | Digital-asset market structure, risk, and financial-market analysis |
 | [`token-research`](token-research/) | Token supply, utility, distribution, liquidity, and protocol risk |
+
+### Featured Case Study
+
+**[Case Study 01 — Bitcoin Transaction Reconstruction](case-studies/bitcoin-transaction-reconstruction.md)**
+
+A reconstruction of the historic Bitcoin transaction `f4184fc5...`, demonstrating UTXO tracing, input/output analysis, fee calculation, P2PK script identification, historical attribution, and the distinction between observable blockchain evidence and analytical inference.
 
 ### Analytical Principles
 
